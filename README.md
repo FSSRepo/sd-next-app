@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Download the project:
+
+```bash
+git clone https://github.com/FSSRepo/sd-next-app.git
+cd sd-next-app && npm install
+```
+
 First, run the development server:
 
 ```bash
